@@ -1,5 +1,6 @@
-# Bookstore-sales-management-system
-安徽大学（大三上）数据库课程设计项目：书店销售管理系统
+# fork_experiment_BSSMS
+## original_repo
+Bookstore-sales-management-system
 
-## Author
-@lolimay (E21714049 梅世祺)
+## attention
+no info yet
